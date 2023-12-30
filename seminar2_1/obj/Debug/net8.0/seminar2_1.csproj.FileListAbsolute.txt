@@ -1,0 +1,15 @@
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/bin/Debug/net8.0/seminar2_1
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/bin/Debug/net8.0/seminar2_1.deps.json
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/bin/Debug/net8.0/seminar2_1.runtimeconfig.json
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/bin/Debug/net8.0/seminar2_1.dll
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/bin/Debug/net8.0/seminar2_1.pdb
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.AssemblyInfoInputs.cache
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.AssemblyInfo.cs
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.csproj.CoreCompileInputs.cache
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.sourcelink.json
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.dll
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/refint/seminar2_1.dll
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.pdb
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/seminar2_1.genruntimeconfig.cache
+/Users/ksyul/Desktop/CSharp/seminar2/seminar2_1/obj/Debug/net8.0/ref/seminar2_1.dll
